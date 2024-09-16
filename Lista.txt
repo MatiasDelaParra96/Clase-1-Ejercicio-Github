@@ -11,13 +11,13 @@ Bañales Gutiérrez, Sebastián (202711) -> Usuario de GitHub: sebaban99
 Abeleira Senone, Juan Martín (238826) -> Usuario de GitHub:
 
 ----	
-Azor Dávila, Valentin (220971) -> Usuario de GitHub:
+Azor Dávila, Valentin (220971) -> Usuario de GitHub: valepalmares
 
 ----	
-Cabrera Pino, Daniel Nicolás (198360) -> Usuario de GitHub:
+Cabrera Pino, Daniel Nicolás (198360) -> Usuario de GitHub: danico64
 
 ----	
-Cano Segundo, Juan Ignacio (215542) -> Usuario de GitHub:
+Cano Segundo, Juan Ignacio (215542) -> Usuario de GitHub: JuanIC99
 
 ----	
 Cejas Paez, Santiago Ezequiel (202706) -> Usuario de GitHub: scejas99
@@ -32,7 +32,7 @@ De La Parra Saenz, Matías (201285) -> Usuario de GitHub: MatiasDelaParra96
 Dück Oholeguy, Agustín (231617) -> Usuario de GitHub: AgusDuck
 
 ----	
-Ellis Fourcade, Ignacio Enrique (200207) -> Usuario de GitHub:
+Ellis Fourcade, Ignacio Enrique (200207) -> Usuario de GitHub: nacho200
 
 ----	
 Iannandrea Abou-Nigm, Silvina Sofía (171428) -> Usuario de GitHub: silvinaiann
@@ -41,13 +41,13 @@ Iannandrea Abou-Nigm, Silvina Sofía (171428) -> Usuario de GitHub: silvinaiann
 Liñares Calvo, Soledad (176202) -> Usuario de GitHub: soledadlinares
 
 ----	
-Miranda Correa, Rodrigo (233827) -> Usuario de GitHub:
+Miranda Correa, Rodrigo (233827) -> Usuario de GitHub: Rodrigo-Miranda-0
 
 ----	
 Picos Mourelle, Bruno (214915) -> Usuario de GitHub:
 
 ----	
-Reimundo Lanzos, Rodrigo (187344) -> Usuario de GitHub:
+Reimundo Lanzos, Rodrigo (187344) -> Usuario de GitHub: rodrigoreimundo
 
 ----	
 Rosas Busto, Esteban Joel (198313) -> Usuario de Github:
@@ -56,7 +56,7 @@ Rosas Busto, Esteban Joel (198313) -> Usuario de Github:
 Toledo Freire, Juan Sebastián (222371) -> Usuario de GitHub: jstf13
 
 ----	
-Tomasi Camejo, Nicolás Matías (187427)-> Usuario de GitHub:
+Tomasi Camejo, Nicolás Matías (187427)-> Usuario de GitHub: nicolastomasi
 
 ----	
 Young Silveira, Felipe Patricio (209942) -> Usuario de GitHub:
@@ -71,4 +71,17 @@ Lafferranderie, Gaspar (167012) -> Usuario de Github: Gaspo07
 -----
 
 de Salterain, Ignacio (131106) -> zvuho
+
+-----
+
+Golubei Mendez, Andrei Joaquim -> Usuario de Github: AndreiGoluei
+
+-----
+
+da Silva Ottonello, Matías (218472) -> Usuario de Github: mds2000
+
+-----
+
+Rosas, Esteban (198313) -> Usuario de GitHub: ejrosasbusto
+
 
